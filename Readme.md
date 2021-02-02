@@ -15,6 +15,7 @@ Input
 İlk satırda boşlukla ayrılmış 3 adet rakam yer alacak: R, k ve N. İkinci satırda boşlukla ayrılmış şekilde N adet rakam yer alacak. Bu rakamlar gruplardaki kişi sayısını belirtecek. Örnek Input
 
 4 6 4
+
 1 4 2 1
 
 Output
