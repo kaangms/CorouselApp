@@ -1,0 +1,13 @@
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\bin\Debug\netcoreapp3.1\CorouselApp.exe
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\bin\Debug\netcoreapp3.1\CorouselApp.deps.json
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\bin\Debug\netcoreapp3.1\CorouselApp.runtimeconfig.json
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\bin\Debug\netcoreapp3.1\CorouselApp.runtimeconfig.dev.json
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\bin\Debug\netcoreapp3.1\CorouselApp.dll
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\bin\Debug\netcoreapp3.1\CorouselApp.pdb
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\obj\Debug\netcoreapp3.1\CorouselApp.csprojAssemblyReference.cache
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\obj\Debug\netcoreapp3.1\CorouselApp.AssemblyInfoInputs.cache
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\obj\Debug\netcoreapp3.1\CorouselApp.AssemblyInfo.cs
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\obj\Debug\netcoreapp3.1\CorouselApp.csproj.CoreCompileInputs.cache
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\obj\Debug\netcoreapp3.1\CorouselApp.dll
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\obj\Debug\netcoreapp3.1\CorouselApp.pdb
+C:\Users\HKG\source\repos\CorouselApp\CorouselApp\obj\Debug\netcoreapp3.1\CorouselApp.genruntimeconfig.cache
