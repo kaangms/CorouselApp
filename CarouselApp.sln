@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselApp", "CarouselApp\CarouselApp.csproj", "{C7FEF5B5-DE45-447B-A2D2-A15ED47FD606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FEF5B5-DE45-447B-A2D2-A15ED47FD606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FEF5B5-DE45-447B-A2D2-A15ED47FD606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FEF5B5-DE45-447B-A2D2-A15ED47FD606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FEF5B5-DE45-447B-A2D2-A15ED47FD606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB26046-D519-4490-A326-56BA88C47254}
+	EndGlobalSection
+EndGlobal
